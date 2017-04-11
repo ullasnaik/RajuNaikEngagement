@@ -1355,15 +1355,15 @@ a:focus {
 }
 @media (min-width:992px) {
   #masthead .header-logo {
-    width: 314px;
+    width: 250px;
     margin-top: 0;
   }
 }
 #masthead .header-logo .site-title {
   margin-bottom: 0;
-  font-size: 36px;
+  font-size: 30px;
   line-height: 1;
-  margin-top: 12px;
+  margin-top: 8px;
   font-weight: regular;
   letter-spacing: -1px;
   word-spacing: -3px;
