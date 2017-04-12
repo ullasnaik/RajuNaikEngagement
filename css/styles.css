@@ -848,7 +848,7 @@ h5,
 h6 {
   margin-top: 0;
   font-weight: 900;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .testimonial-carousel blockquote {
   border-left: none;
@@ -1456,7 +1456,7 @@ a:focus {
   background-color: transparent ;
   color: #ffffff;
   position: relative;
-  top: 5px;
+  top: 0px;
   margin-right: 0;
 }
 .navbar-default .navbar-toggle .icon-bar {
